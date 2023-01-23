@@ -8,7 +8,7 @@ Git Search: Projeto com Javascript Vanilla que consiste em uma plataforma que ga
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Pages](https://studious-adventure-1026bdd7.pages.github.io/pages/home/) 
+- [Pages](https://kenzie-academy-brasil-developers.github.io/gitSearchBase-devjonass/pages/home/) 
 
 
 Feito por [Jonas Dias](https://www.linkedin.com/in/jonas-diass/)
